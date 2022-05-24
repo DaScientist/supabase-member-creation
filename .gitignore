@@ -1,0 +1,23 @@
+# Node Modules
+/node_modules
+
+# VS Code launch and Config files
+/.vscode
+
+# Output files
+/bin
+
+# Apple cache files
+.DS_Store
+
+#.env files
+.env
+.env.local
+.env.dev
+.env.prod
+
+#lock files
+*.lock
+
+# Data files
+/files
