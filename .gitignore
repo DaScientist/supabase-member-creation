@@ -21,3 +21,6 @@
 
 # Data files
 /files
+
+# type Declarations
+/types
